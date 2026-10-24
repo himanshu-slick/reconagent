@@ -1,0 +1,30 @@
+{
+  "name": "reconagent",
+  "version": "0.1.0",
+  "description": "LangGraph agent that downloads vendor statements from a portal, reconciles them against invoices and routes mismatches for human approval.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "setup": "npm install && npm --prefix portal install && npm run data && npm run portal:build",
+    "data": "tsx scripts/generate-data.ts",
+    "portal:build": "npm --prefix portal run build",
+    "reconcile": "tsx scripts/with-portal.ts tsx src/cli.ts",
+    "reconcile:auto": "tsx scripts/with-portal.ts tsx src/cli.ts --auto",
+    "eval": "tsx scripts/with-portal.ts tsx eval/run.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.0",
+    "@langchain/langgraph": "^0.4.0",
+    "puppeteer": "^24.0.0",
+    "unpdf": "^1.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  }
+}

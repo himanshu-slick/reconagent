@@ -1,0 +1,702 @@
+[
+  {
+    "id": "ACM-INV-1001",
+    "vendor": "ACM",
+    "ref": "INV-1001",
+    "date": "2026-09-19",
+    "amount": 2296.62
+  },
+  {
+    "id": "ACM-INV-1002",
+    "vendor": "ACM",
+    "ref": "INV-1002",
+    "date": "2026-09-26",
+    "amount": 3381.7
+  },
+  {
+    "id": "ACM-INV-1003",
+    "vendor": "ACM",
+    "ref": "INV-1003",
+    "date": "2026-09-06",
+    "amount": 2680.3
+  },
+  {
+    "id": "ACM-INV-1004",
+    "vendor": "ACM",
+    "ref": "INV-1004",
+    "date": "2026-09-09",
+    "amount": 3161.25
+  },
+  {
+    "id": "ACM-INV-1005",
+    "vendor": "ACM",
+    "ref": "INV-1005",
+    "date": "2026-09-26",
+    "amount": 2414.35
+  },
+  {
+    "id": "ACM-INV-1006",
+    "vendor": "ACM",
+    "ref": "INV-1006",
+    "date": "2026-09-08",
+    "amount": 4422.09
+  },
+  {
+    "id": "ACM-INV-1007",
+    "vendor": "ACM",
+    "ref": "INV-1007",
+    "date": "2026-09-23",
+    "amount": 1604.31
+  },
+  {
+    "id": "ACM-INV-1008",
+    "vendor": "ACM",
+    "ref": "INV-1008",
+    "date": "2026-09-06",
+    "amount": 2553.57
+  },
+  {
+    "id": "ACM-INV-1009",
+    "vendor": "ACM",
+    "ref": "INV-1009",
+    "date": "2026-09-21",
+    "amount": 3092.04
+  },
+  {
+    "id": "ACM-INV-1010",
+    "vendor": "ACM",
+    "ref": "INV-1010",
+    "date": "2026-09-01",
+    "amount": 2406.83
+  },
+  {
+    "id": "ACM-INV-1011",
+    "vendor": "ACM",
+    "ref": "INV-1011",
+    "date": "2026-09-26",
+    "amount": 350.93
+  },
+  {
+    "id": "ACM-INV-1012",
+    "vendor": "ACM",
+    "ref": "INV-1012",
+    "date": "2026-09-18",
+    "amount": 254.54
+  },
+  {
+    "id": "ACM-INV-1013",
+    "vendor": "ACM",
+    "ref": "INV-1013",
+    "date": "2026-09-09",
+    "amount": 402.73
+  },
+  {
+    "id": "ACM-INV-1014",
+    "vendor": "ACM",
+    "ref": "INV-1014",
+    "date": "2026-09-06",
+    "amount": 3939.38
+  },
+  {
+    "id": "ACM-INV-1015",
+    "vendor": "ACM",
+    "ref": "INV-1015",
+    "date": "2026-09-16",
+    "amount": 232.91
+  },
+  {
+    "id": "ACM-INV-1016",
+    "vendor": "ACM",
+    "ref": "INV-1016",
+    "date": "2026-09-06",
+    "amount": 4229.17
+  },
+  {
+    "id": "ACM-INV-1017",
+    "vendor": "ACM",
+    "ref": "INV-1017",
+    "date": "2026-09-15",
+    "amount": 4064.21
+  },
+  {
+    "id": "ACM-INV-1018",
+    "vendor": "ACM",
+    "ref": "INV-1018",
+    "date": "2026-09-10",
+    "amount": 2304.49
+  },
+  {
+    "id": "ACM-INV-1019",
+    "vendor": "ACM",
+    "ref": "INV-1019",
+    "date": "2026-09-02",
+    "amount": 351.82
+  },
+  {
+    "id": "ACM-INV-1020",
+    "vendor": "ACM",
+    "ref": "INV-1020",
+    "date": "2026-09-17",
+    "amount": 3023.97
+  },
+  {
+    "id": "ACM-INV-1021",
+    "vendor": "ACM",
+    "ref": "INV-1021",
+    "date": "2026-09-08",
+    "amount": 3263.9
+  },
+  {
+    "id": "ACM-INV-1022",
+    "vendor": "ACM",
+    "ref": "INV-1022",
+    "date": "2026-09-07",
+    "amount": 1587.79
+  },
+  {
+    "id": "ACM-INV-1023",
+    "vendor": "ACM",
+    "ref": "INV-1023",
+    "date": "2026-09-23",
+    "amount": 4307.68
+  },
+  {
+    "id": "ACM-INV-1024",
+    "vendor": "ACM",
+    "ref": "INV-1024",
+    "date": "2026-09-16",
+    "amount": 1100.53
+  },
+  {
+    "id": "ACM-INV-1025",
+    "vendor": "ACM",
+    "ref": "INV-1025",
+    "date": "2026-09-09",
+    "amount": 1535.66
+  },
+  {
+    "id": "ACM-INV-1026",
+    "vendor": "ACM",
+    "ref": "INV-1026",
+    "date": "2026-09-03",
+    "amount": 3333.31
+  },
+  {
+    "id": "ACM-INV-1027",
+    "vendor": "ACM",
+    "ref": "INV-1027",
+    "date": "2026-09-21",
+    "amount": 3496.13
+  },
+  {
+    "id": "ACM-INV-1028",
+    "vendor": "ACM",
+    "ref": "INV-1028",
+    "date": "2026-09-28",
+    "amount": 531.04
+  },
+  {
+    "id": "ACM-INV-1029",
+    "vendor": "ACM",
+    "ref": "INV-1029",
+    "date": "2026-09-29",
+    "amount": 2212.57
+  },
+  {
+    "id": "ACM-INV-1030",
+    "vendor": "ACM",
+    "ref": "INV-1030",
+    "date": "2026-09-29",
+    "amount": 772.76
+  },
+  {
+    "id": "ACM-INV-1031",
+    "vendor": "ACM",
+    "ref": "INV-1031",
+    "date": "2026-09-04",
+    "amount": 177.63
+  },
+  {
+    "id": "ACM-INV-1032",
+    "vendor": "ACM",
+    "ref": "INV-1032",
+    "date": "2026-09-11",
+    "amount": 2460.44
+  },
+  {
+    "id": "ACM-INV-1033",
+    "vendor": "ACM",
+    "ref": "INV-1033",
+    "date": "2026-09-19",
+    "amount": 4507.83
+  },
+  {
+    "id": "ACM-INV-1034",
+    "vendor": "ACM",
+    "ref": "INV-1034",
+    "date": "2026-09-03",
+    "amount": 3626.03
+  },
+  {
+    "id": "GLB-INV-1035",
+    "vendor": "GLB",
+    "ref": "INV-1035",
+    "date": "2026-09-29",
+    "amount": 1463.43
+  },
+  {
+    "id": "GLB-INV-1036",
+    "vendor": "GLB",
+    "ref": "INV-1036",
+    "date": "2026-09-22",
+    "amount": 980.15
+  },
+  {
+    "id": "GLB-INV-1037",
+    "vendor": "GLB",
+    "ref": "INV-1037",
+    "date": "2026-09-16",
+    "amount": 4127.27
+  },
+  {
+    "id": "GLB-INV-1038",
+    "vendor": "GLB",
+    "ref": "INV-1038",
+    "date": "2026-09-04",
+    "amount": 4978.63
+  },
+  {
+    "id": "GLB-INV-1039",
+    "vendor": "GLB",
+    "ref": "INV-1039",
+    "date": "2026-09-17",
+    "amount": 4588.99
+  },
+  {
+    "id": "GLB-INV-1040",
+    "vendor": "GLB",
+    "ref": "INV-1040",
+    "date": "2026-09-14",
+    "amount": 2934.42
+  },
+  {
+    "id": "GLB-INV-1041",
+    "vendor": "GLB",
+    "ref": "INV-1041",
+    "date": "2026-09-11",
+    "amount": 3021.57
+  },
+  {
+    "id": "GLB-INV-1042",
+    "vendor": "GLB",
+    "ref": "INV-1042",
+    "date": "2026-09-10",
+    "amount": 3674.13
+  },
+  {
+    "id": "GLB-INV-1043",
+    "vendor": "GLB",
+    "ref": "INV-1043",
+    "date": "2026-09-09",
+    "amount": 2303.84
+  },
+  {
+    "id": "GLB-INV-1044",
+    "vendor": "GLB",
+    "ref": "INV-1044",
+    "date": "2026-09-26",
+    "amount": 3505.82
+  },
+  {
+    "id": "GLB-INV-1045",
+    "vendor": "GLB",
+    "ref": "INV-1045",
+    "date": "2026-09-30",
+    "amount": 4461.97
+  },
+  {
+    "id": "GLB-INV-1046",
+    "vendor": "GLB",
+    "ref": "INV-1046",
+    "date": "2026-09-13",
+    "amount": 2771.54
+  },
+  {
+    "id": "GLB-INV-1047",
+    "vendor": "GLB",
+    "ref": "INV-1047",
+    "date": "2026-09-09",
+    "amount": 594.3
+  },
+  {
+    "id": "GLB-INV-1048",
+    "vendor": "GLB",
+    "ref": "INV-1048",
+    "date": "2026-09-21",
+    "amount": 1635.2
+  },
+  {
+    "id": "GLB-INV-1049",
+    "vendor": "GLB",
+    "ref": "INV-1049",
+    "date": "2026-09-24",
+    "amount": 4533.4
+  },
+  {
+    "id": "GLB-INV-1050",
+    "vendor": "GLB",
+    "ref": "INV-1050",
+    "date": "2026-09-03",
+    "amount": 2429.42
+  },
+  {
+    "id": "GLB-INV-1051",
+    "vendor": "GLB",
+    "ref": "INV-1051",
+    "date": "2026-09-25",
+    "amount": 736.9
+  },
+  {
+    "id": "GLB-INV-1052",
+    "vendor": "GLB",
+    "ref": "INV-1052",
+    "date": "2026-09-30",
+    "amount": 974.13
+  },
+  {
+    "id": "GLB-INV-1053",
+    "vendor": "GLB",
+    "ref": "INV-1053",
+    "date": "2026-09-22",
+    "amount": 3528.49
+  },
+  {
+    "id": "GLB-INV-1054",
+    "vendor": "GLB",
+    "ref": "INV-1054",
+    "date": "2026-09-07",
+    "amount": 2123.02
+  },
+  {
+    "id": "GLB-INV-1055",
+    "vendor": "GLB",
+    "ref": "INV-1055",
+    "date": "2026-09-05",
+    "amount": 3307.87
+  },
+  {
+    "id": "GLB-INV-1056",
+    "vendor": "GLB",
+    "ref": "INV-1056",
+    "date": "2026-09-11",
+    "amount": 1114.08
+  },
+  {
+    "id": "GLB-INV-1057",
+    "vendor": "GLB",
+    "ref": "INV-1057",
+    "date": "2026-09-19",
+    "amount": 4445.71
+  },
+  {
+    "id": "GLB-INV-1058",
+    "vendor": "GLB",
+    "ref": "INV-1058",
+    "date": "2026-09-10",
+    "amount": 3982.89
+  },
+  {
+    "id": "GLB-INV-1059",
+    "vendor": "GLB",
+    "ref": "INV-1059",
+    "date": "2026-09-12",
+    "amount": 743.82
+  },
+  {
+    "id": "GLB-INV-1060",
+    "vendor": "GLB",
+    "ref": "INV-1060",
+    "date": "2026-09-26",
+    "amount": 1911.58
+  },
+  {
+    "id": "GLB-INV-1061",
+    "vendor": "GLB",
+    "ref": "INV-1061",
+    "date": "2026-09-01",
+    "amount": 3713.37
+  },
+  {
+    "id": "GLB-INV-1062",
+    "vendor": "GLB",
+    "ref": "INV-1062",
+    "date": "2026-09-20",
+    "amount": 4392.02
+  },
+  {
+    "id": "GLB-INV-1063",
+    "vendor": "GLB",
+    "ref": "INV-1063",
+    "date": "2026-09-28",
+    "amount": 1124.05
+  },
+  {
+    "id": "GLB-INV-1064",
+    "vendor": "GLB",
+    "ref": "INV-1064",
+    "date": "2026-09-19",
+    "amount": 2497.29
+  },
+  {
+    "id": "GLB-INV-1065",
+    "vendor": "GLB",
+    "ref": "INV-1065",
+    "date": "2026-09-06",
+    "amount": 332.62
+  },
+  {
+    "id": "GLB-INV-1066",
+    "vendor": "GLB",
+    "ref": "INV-1066",
+    "date": "2026-09-22",
+    "amount": 3571.01
+  },
+  {
+    "id": "GLB-INV-1067",
+    "vendor": "GLB",
+    "ref": "INV-1067",
+    "date": "2026-09-09",
+    "amount": 1449.87
+  },
+  {
+    "id": "INI-INV-1068",
+    "vendor": "INI",
+    "ref": "INV-1068",
+    "date": "2026-09-11",
+    "amount": 242.62
+  },
+  {
+    "id": "INI-INV-1069",
+    "vendor": "INI",
+    "ref": "INV-1069",
+    "date": "2026-09-07",
+    "amount": 4968.25
+  },
+  {
+    "id": "INI-INV-1070",
+    "vendor": "INI",
+    "ref": "INV-1070",
+    "date": "2026-09-18",
+    "amount": 4943.96
+  },
+  {
+    "id": "INI-INV-1071",
+    "vendor": "INI",
+    "ref": "INV-1071",
+    "date": "2026-09-05",
+    "amount": 937.09
+  },
+  {
+    "id": "INI-INV-1072",
+    "vendor": "INI",
+    "ref": "INV-1072",
+    "date": "2026-09-17",
+    "amount": 1533.27
+  },
+  {
+    "id": "INI-INV-1073",
+    "vendor": "INI",
+    "ref": "INV-1073",
+    "date": "2026-09-12",
+    "amount": 2228.61
+  },
+  {
+    "id": "INI-INV-1074",
+    "vendor": "INI",
+    "ref": "INV-1074",
+    "date": "2026-09-13",
+    "amount": 3462.07
+  },
+  {
+    "id": "INI-INV-1075",
+    "vendor": "INI",
+    "ref": "INV-1075",
+    "date": "2026-09-12",
+    "amount": 1746.99
+  },
+  {
+    "id": "INI-INV-1076",
+    "vendor": "INI",
+    "ref": "INV-1076",
+    "date": "2026-09-27",
+    "amount": 1703.85
+  },
+  {
+    "id": "INI-INV-1077",
+    "vendor": "INI",
+    "ref": "INV-1077",
+    "date": "2026-09-15",
+    "amount": 3093.26
+  },
+  {
+    "id": "INI-INV-1078",
+    "vendor": "INI",
+    "ref": "INV-1078",
+    "date": "2026-09-17",
+    "amount": 2987.56
+  },
+  {
+    "id": "INI-INV-1079",
+    "vendor": "INI",
+    "ref": "INV-1079",
+    "date": "2026-09-08",
+    "amount": 1694.29
+  },
+  {
+    "id": "INI-INV-1080",
+    "vendor": "INI",
+    "ref": "INV-1080",
+    "date": "2026-09-09",
+    "amount": 1670.77
+  },
+  {
+    "id": "INI-INV-1081",
+    "vendor": "INI",
+    "ref": "INV-1081",
+    "date": "2026-09-21",
+    "amount": 1182.37
+  },
+  {
+    "id": "INI-INV-1082",
+    "vendor": "INI",
+    "ref": "INV-1082",
+    "date": "2026-09-06",
+    "amount": 3505.43
+  },
+  {
+    "id": "INI-INV-1083",
+    "vendor": "INI",
+    "ref": "INV-1083",
+    "date": "2026-09-10",
+    "amount": 712.07
+  },
+  {
+    "id": "INI-INV-1084",
+    "vendor": "INI",
+    "ref": "INV-1084",
+    "date": "2026-09-10",
+    "amount": 307.83
+  },
+  {
+    "id": "INI-INV-1085",
+    "vendor": "INI",
+    "ref": "INV-1085",
+    "date": "2026-09-18",
+    "amount": 1117.67
+  },
+  {
+    "id": "INI-INV-1086",
+    "vendor": "INI",
+    "ref": "INV-1086",
+    "date": "2026-09-15",
+    "amount": 1961.66
+  },
+  {
+    "id": "INI-INV-1087",
+    "vendor": "INI",
+    "ref": "INV-1087",
+    "date": "2026-09-22",
+    "amount": 4571.88
+  },
+  {
+    "id": "INI-INV-1088",
+    "vendor": "INI",
+    "ref": "INV-1088",
+    "date": "2026-09-25",
+    "amount": 2252.88
+  },
+  {
+    "id": "INI-INV-1089",
+    "vendor": "INI",
+    "ref": "INV-1089",
+    "date": "2026-09-05",
+    "amount": 4351.39
+  },
+  {
+    "id": "INI-INV-1090",
+    "vendor": "INI",
+    "ref": "INV-1090",
+    "date": "2026-09-16",
+    "amount": 4217.84
+  },
+  {
+    "id": "INI-INV-1091",
+    "vendor": "INI",
+    "ref": "INV-1091",
+    "date": "2026-09-27",
+    "amount": 2305.5
+  },
+  {
+    "id": "INI-INV-1092",
+    "vendor": "INI",
+    "ref": "INV-1092",
+    "date": "2026-09-05",
+    "amount": 3131.85
+  },
+  {
+    "id": "INI-INV-1093",
+    "vendor": "INI",
+    "ref": "INV-1093",
+    "date": "2026-09-25",
+    "amount": 1121.21
+  },
+  {
+    "id": "INI-INV-1094",
+    "vendor": "INI",
+    "ref": "INV-1094",
+    "date": "2026-09-12",
+    "amount": 2773.74
+  },
+  {
+    "id": "INI-INV-1095",
+    "vendor": "INI",
+    "ref": "INV-1095",
+    "date": "2026-09-30",
+    "amount": 2510.8
+  },
+  {
+    "id": "INI-INV-1096",
+    "vendor": "INI",
+    "ref": "INV-1096",
+    "date": "2026-09-26",
+    "amount": 4231.64
+  },
+  {
+    "id": "INI-INV-1097",
+    "vendor": "INI",
+    "ref": "INV-1097",
+    "date": "2026-09-23",
+    "amount": 362.37
+  },
+  {
+    "id": "INI-INV-1098",
+    "vendor": "INI",
+    "ref": "INV-1098",
+    "date": "2026-09-03",
+    "amount": 929.58
+  },
+  {
+    "id": "INI-INV-1099",
+    "vendor": "INI",
+    "ref": "INV-1099",
+    "date": "2026-09-16",
+    "amount": 3415.62
+  },
+  {
+    "id": "INI-INV-1100",
+    "vendor": "INI",
+    "ref": "INV-1100",
+    "date": "2026-09-23",
+    "amount": 4958.14
+  }
+]

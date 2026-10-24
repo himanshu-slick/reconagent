@@ -1,0 +1,9 @@
+node_modules/
+.env
+.next/
+runs/
+downloads/
+*.log
+.DS_Store
+.omc/
+.claude/

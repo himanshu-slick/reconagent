@@ -1,0 +1,718 @@
+{
+  "vendors": [
+    {
+      "code": "ACM",
+      "name": "Acme Supplies",
+      "period": "2026-09-01 to 2026-09-30",
+      "lines": [
+        {
+          "vendor": "ACM",
+          "ref": "INV1010",
+          "date": "2026-09-01",
+          "description": "Invoice INV-1010",
+          "amount": 2406.83
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1019",
+          "date": "2026-09-02",
+          "description": "Invoice INV-1019",
+          "amount": 351.82
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1026",
+          "date": "2026-09-03",
+          "description": "Invoice INV-1026",
+          "amount": 3333.31
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1034",
+          "date": "2026-09-03",
+          "description": "Invoice INV-1034",
+          "amount": 3626.03
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV1031",
+          "date": "2026-09-04",
+          "description": "Invoice INV-1031",
+          "amount": 177.63
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1003",
+          "date": "2026-09-06",
+          "description": "Invoice INV-1003",
+          "amount": 2680.3
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1008",
+          "date": "2026-09-06",
+          "description": "Invoice INV-1008",
+          "amount": 2553.57
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1014",
+          "date": "2026-09-06",
+          "description": "Invoice INV-1014",
+          "amount": 3939.38
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1022",
+          "date": "2026-09-07",
+          "description": "Invoice INV-1022",
+          "amount": 1587.79
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1006",
+          "date": "2026-09-08",
+          "description": "Invoice INV-1006",
+          "amount": 4422.59
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1021",
+          "date": "2026-09-08",
+          "description": "Invoice INV-1021",
+          "amount": 3263.9
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1004",
+          "date": "2026-09-09",
+          "description": "Invoice INV-1004",
+          "amount": 3161.25
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1013",
+          "date": "2026-09-09",
+          "description": "Invoice INV-1013",
+          "amount": 402.73
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1025",
+          "date": "2026-09-09",
+          "description": "Invoice INV-1025",
+          "amount": 1535.66
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1018",
+          "date": "2026-09-10",
+          "description": "Invoice INV-1018",
+          "amount": 2304.49
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1032",
+          "date": "2026-09-11",
+          "description": "Invoice INV-1032",
+          "amount": 2460.44
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-9100",
+          "date": "2026-09-11",
+          "description": "Invoice INV-9100",
+          "amount": 2711.02
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1017",
+          "date": "2026-09-15",
+          "description": "Invoice INV-1017",
+          "amount": 4064.21
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1015",
+          "date": "2026-09-16",
+          "description": "Invoice INV-1015",
+          "amount": 232.91
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1024",
+          "date": "2026-09-16",
+          "description": "Invoice INV-1024",
+          "amount": 1100.53
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1020",
+          "date": "2026-09-17",
+          "description": "Invoice INV-1020",
+          "amount": 3023.97
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1012",
+          "date": "2026-09-18",
+          "description": "Invoice INV-1012",
+          "amount": 254.54
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1001",
+          "date": "2026-09-19",
+          "description": "Invoice INV-1001",
+          "amount": 2296.62
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1033",
+          "date": "2026-09-19",
+          "description": "Invoice INV-1033",
+          "amount": 4507.83
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1009",
+          "date": "2026-09-21",
+          "description": "Invoice INV-1009",
+          "amount": 3092.04
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1027",
+          "date": "2026-09-21",
+          "description": "Invoice INV-1027",
+          "amount": 3496.13
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1007",
+          "date": "2026-09-23",
+          "description": "Invoice INV-1007",
+          "amount": 1604.31
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1023",
+          "date": "2026-09-23",
+          "description": "Invoice INV-1023",
+          "amount": 4307.68
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1002",
+          "date": "2026-09-26",
+          "description": "Invoice INV-1002",
+          "amount": 3381.7
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1005",
+          "date": "2026-09-26",
+          "description": "Invoice INV-1005",
+          "amount": 2414.35
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1011",
+          "date": "2026-09-26",
+          "description": "Invoice INV-1011",
+          "amount": 350.93
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1028",
+          "date": "2026-09-28",
+          "description": "Invoice INV-1028",
+          "amount": 531.04
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1029",
+          "date": "2026-09-29",
+          "description": "Invoice INV-1029",
+          "amount": 2212.57
+        },
+        {
+          "vendor": "ACM",
+          "ref": "INV-1030",
+          "date": "2026-09-29",
+          "description": "Invoice INV-1030",
+          "amount": 772.76
+        }
+      ]
+    },
+    {
+      "code": "GLB",
+      "name": "Globex Logistics",
+      "period": "2026-09-01 to 2026-09-30",
+      "lines": [
+        {
+          "vendor": "GLB",
+          "ref": "INV-1061",
+          "date": "2026-09-01",
+          "description": "Invoice INV-1061",
+          "amount": 3713.37
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1050",
+          "date": "2026-09-03",
+          "description": "Invoice INV-1050",
+          "amount": 2429.42
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1038",
+          "date": "2026-09-04",
+          "description": "Invoice INV-1038",
+          "amount": 5037.77
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1055",
+          "date": "2026-09-05",
+          "description": "Invoice INV-1055",
+          "amount": 3307.87
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-I065",
+          "date": "2026-09-06",
+          "description": "Invoice INV-1065",
+          "amount": 332.62
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1054",
+          "date": "2026-09-07",
+          "description": "Invoice INV-1054",
+          "amount": 2123.02
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1043",
+          "date": "2026-09-09",
+          "description": "Invoice INV-1043",
+          "amount": 2303.84
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1047",
+          "date": "2026-09-09",
+          "description": "Invoice INV-1047",
+          "amount": 594.3
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1042",
+          "date": "2026-09-10",
+          "description": "Invoice INV-1042",
+          "amount": 3674.13
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1058",
+          "date": "2026-09-10",
+          "description": "Invoice INV-1058",
+          "amount": 3982.89
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1041",
+          "date": "2026-09-11",
+          "description": "Invoice INV-1041",
+          "amount": 3021.57
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1056",
+          "date": "2026-09-11",
+          "description": "Invoice INV-1056",
+          "amount": 1114.08
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1067",
+          "date": "2026-09-11",
+          "description": "Invoice INV-1067",
+          "amount": 1449.87
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1059",
+          "date": "2026-09-12",
+          "description": "Invoice INV-1059",
+          "amount": 743.82
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1046",
+          "date": "2026-09-13",
+          "description": "Invoice INV-1046",
+          "amount": 2771.54
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1040",
+          "date": "2026-09-14",
+          "description": "Invoice INV-1040",
+          "amount": 2934.42
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1037",
+          "date": "2026-09-16",
+          "description": "Invoice INV-1037",
+          "amount": 4127.27
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1039",
+          "date": "2026-09-17",
+          "description": "Invoice INV-1039",
+          "amount": 4588.99
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1057",
+          "date": "2026-09-19",
+          "description": "Invoice INV-1057",
+          "amount": 4445.71
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1064",
+          "date": "2026-09-19",
+          "description": "Invoice INV-1064",
+          "amount": 2497.29
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1062",
+          "date": "2026-09-20",
+          "description": "Invoice INV-1062",
+          "amount": 4392.02
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1048",
+          "date": "2026-09-21",
+          "description": "Invoice INV-1048",
+          "amount": 1670.23
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1053",
+          "date": "2026-09-22",
+          "description": "Invoice INV-1053",
+          "amount": 3528.49
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-I049",
+          "date": "2026-09-24",
+          "description": "Invoice INV-1049",
+          "amount": 4533.4
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1051",
+          "date": "2026-09-25",
+          "description": "Invoice INV-1051",
+          "amount": 736.4
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1044",
+          "date": "2026-09-26",
+          "description": "Invoice INV-1044",
+          "amount": 3505.82
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1060",
+          "date": "2026-09-26",
+          "description": "Invoice INV-1060",
+          "amount": 1911.58
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-9101",
+          "date": "2026-09-26",
+          "description": "Invoice INV-9101",
+          "amount": 3127.52
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1063",
+          "date": "2026-09-28",
+          "description": "Invoice INV-1063",
+          "amount": 1124.05
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1035",
+          "date": "2026-09-29",
+          "description": "Invoice INV-1035",
+          "amount": 1485.41
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1045",
+          "date": "2026-09-30",
+          "description": "Invoice INV-1045",
+          "amount": 4461.97
+        },
+        {
+          "vendor": "GLB",
+          "ref": "INV-1052",
+          "date": "2026-09-30",
+          "description": "Invoice INV-1052",
+          "amount": 974.13
+        }
+      ]
+    },
+    {
+      "code": "INI",
+      "name": "Initech Services",
+      "period": "2026-09-01 to 2026-09-30",
+      "lines": [
+        {
+          "vendor": "INI",
+          "ref": "INV-1098",
+          "date": "2026-09-03",
+          "description": "Invoice INV-1098",
+          "amount": 929.58
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1071",
+          "date": "2026-09-05",
+          "description": "Invoice INV-1071",
+          "amount": 937.09
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1089",
+          "date": "2026-09-05",
+          "description": "Invoice INV-1089",
+          "amount": 4351.39
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1092",
+          "date": "2026-09-05",
+          "description": "Invoice INV-1092",
+          "amount": 3131.85
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1082",
+          "date": "2026-09-06",
+          "description": "Invoice INV-1082",
+          "amount": 3505.43
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1069",
+          "date": "2026-09-07",
+          "description": "Invoice INV-1069",
+          "amount": 4968.25
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1079",
+          "date": "2026-09-08",
+          "description": "Invoice INV-1079",
+          "amount": 1694.29
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1080",
+          "date": "2026-09-09",
+          "description": "Invoice INV-1080",
+          "amount": 1670.77
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1083",
+          "date": "2026-09-10",
+          "description": "Invoice INV-1083",
+          "amount": 712.07
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1084",
+          "date": "2026-09-10",
+          "description": "Invoice INV-1084",
+          "amount": 307.83
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1068",
+          "date": "2026-09-11",
+          "description": "Invoice INV-1068",
+          "amount": 196.36
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1073",
+          "date": "2026-09-12",
+          "description": "Invoice INV-1073",
+          "amount": 2228.61
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1075",
+          "date": "2026-09-12",
+          "description": "Invoice INV-1075",
+          "amount": 1746.99
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1094",
+          "date": "2026-09-12",
+          "description": "Invoice INV-1094",
+          "amount": 2773.74
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1074",
+          "date": "2026-09-13",
+          "description": "Invoice INV-1074",
+          "amount": 3462.07
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1077",
+          "date": "2026-09-15",
+          "description": "Invoice INV-1077",
+          "amount": 3093.26
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1090",
+          "date": "2026-09-16",
+          "description": "Invoice INV-1090",
+          "amount": 4217.84
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1099",
+          "date": "2026-09-16",
+          "description": "Invoice INV-1099",
+          "amount": 3415.62
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1072",
+          "date": "2026-09-17",
+          "description": "Invoice INV-1072",
+          "amount": 1533.27
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1070",
+          "date": "2026-09-18",
+          "description": "Invoice INV-1070",
+          "amount": 4943.96
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1078",
+          "date": "2026-09-18",
+          "description": "Invoice INV-1078",
+          "amount": 2987.56
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1085",
+          "date": "2026-09-18",
+          "description": "Invoice INV-1085",
+          "amount": 1117.67
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1081",
+          "date": "2026-09-22",
+          "description": "Invoice INV-1081",
+          "amount": 1182.37
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV1087",
+          "date": "2026-09-22",
+          "description": "Invoice INV-1087",
+          "amount": 4571.88
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1097",
+          "date": "2026-09-23",
+          "description": "Invoice INV-1097",
+          "amount": 362.37
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1100",
+          "date": "2026-09-23",
+          "description": "Invoice INV-1100",
+          "amount": 4958.14
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1088",
+          "date": "2026-09-25",
+          "description": "Invoice INV-1088",
+          "amount": 2252.88
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1093",
+          "date": "2026-09-25",
+          "description": "Invoice INV-1093",
+          "amount": 1121.21
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1096",
+          "date": "2026-09-26",
+          "description": "Invoice INV-1096",
+          "amount": 4274.44
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1091",
+          "date": "2026-09-27",
+          "description": "Invoice INV-1091",
+          "amount": 2305.5
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-9102",
+          "date": "2026-09-27",
+          "description": "Invoice INV-9102",
+          "amount": 3488.44
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-I076",
+          "date": "2026-09-27",
+          "description": "Invoice INV-1076",
+          "amount": 1703.85
+        },
+        {
+          "vendor": "INI",
+          "ref": "INV-1095",
+          "date": "2026-09-30",
+          "description": "Invoice INV-1095",
+          "amount": 2510.8
+        }
+      ]
+    }
+  ]
+}

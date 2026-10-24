@@ -1,0 +1,50 @@
+[
+  {
+    "key": "inv:INI-INV-1068",
+    "kind": "amount_diff"
+  },
+  {
+    "key": "inv:INI-INV-1096",
+    "kind": "amount_diff"
+  },
+  {
+    "key": "inv:GLB-INV-1048",
+    "kind": "amount_diff"
+  },
+  {
+    "key": "inv:GLB-INV-1038",
+    "kind": "amount_diff"
+  },
+  {
+    "key": "inv:GLB-INV-1035",
+    "kind": "amount_diff"
+  },
+  {
+    "key": "inv:ACM-INV-1016",
+    "kind": "missing_on_statement"
+  },
+  {
+    "key": "inv:GLB-INV-1066",
+    "kind": "missing_on_statement"
+  },
+  {
+    "key": "inv:GLB-INV-1036",
+    "kind": "missing_on_statement"
+  },
+  {
+    "key": "inv:INI-INV-1086",
+    "kind": "missing_on_statement"
+  },
+  {
+    "key": "stm:ACM:INV-9100",
+    "kind": "missing_in_books"
+  },
+  {
+    "key": "stm:GLB:INV-9101",
+    "kind": "missing_in_books"
+  },
+  {
+    "key": "stm:INI:INV-9102",
+    "kind": "missing_in_books"
+  }
+]
